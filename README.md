@@ -8,7 +8,7 @@ Busco consolidar conhecimentos fundamentais em hardware, software e programaçã
 
 # 📂 Repositório Pessoal
 
-Este repositório foi criado para documentar e compartilhar minha trajetória acadêmica, reunindo conteúdos, anotações e projetos desenvolvidos ao longo das unidades curriculares.  
+Este repositório foi criado para documentar e compartilhar minha trajetória pessoal, acadêmica, reunindo conteúdos, anotações e projetos desenvolvidos ao longo das unidades curriculares.  
 
 ---
 
