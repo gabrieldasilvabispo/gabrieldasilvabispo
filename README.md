@@ -1,7 +1,14 @@
-# 👨‍💻 Apresentação
+# 👨‍💻 Sobre mim
 
-Bem-vindo ao meu perfil pessoal!  
-Este espaço foi criado para documentar e compartilhar minha trajetória acadêmica no curso **Técnico em Informática – SENAC Tatuapé** e na minha vida, reunindo conteúdos, anotações e projetos desenvolvidos ao longo das unidades curriculares.  
+Olá, meu nome é **Gabriel da Silva Bispo**.  
+Sou estudante do curso **Técnico em Informática – SENAC Tatuapé**, com interesse em tecnologia, desenvolvimento de soluções e aprendizado contínuo.  
+Busco consolidar conhecimentos fundamentais em hardware, software e programação, visando construir uma base sólida para minha futura atuação profissional na área de TI.  
+
+---
+
+# 📂 Repositório Pessoal
+
+Este repositório foi criado para documentar e compartilhar minha trajetória acadêmica, reunindo conteúdos, anotações e projetos desenvolvidos ao longo das unidades curriculares.  
 
 ---
 
