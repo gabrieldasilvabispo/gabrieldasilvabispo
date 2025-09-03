@@ -1,4 +1,4 @@
-# 👋 Bem-vindo ao meu repositório pessoal
+# 👋 Bem-vindo ao meu repositório
 
 Este espaço reúne meus estudos, projetos e experimentos na área de **Tecnologia da Informação**, especialmente durante o curso **Técnico em Informática - SENAC Tatuapé**.  
 
