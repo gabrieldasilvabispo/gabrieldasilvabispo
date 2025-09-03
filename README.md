@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu repositório pessoal
 
-<!--
-**gabrieldasilvabispo/gabrieldasilvabispo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este espaço reúne meus estudos, projetos e experimentos na área de **Tecnologia da Informação**, especialmente durante o curso **Técnico em Informática - SENAC Tatuapé**.  
 
-Here are some ideas to get you started:
+## 📚 Conteúdos em estudo
+- **UC-1**: Teoria de hardware, elétrica básica, eletrônica básica com Arduino, Git/GitHub e Inteligência Artificial.  
+- **UC-2**: Sistemas operacionais (Microsoft Windows e GNU/Linux).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Objetivo
+Organizar materiais, anotações e códigos desenvolvidos ao longo da minha jornada de aprendizado, facilitando a revisão e o compartilhamento de conhecimento.  
+
+## 🔗 Conecte-se comigo
+- GitHub: [seu usuário](https://github.com/seuusuario)  
+- LinkedIn: [seu perfil](https://linkedin.com/in/seuperfil)  
+
+---
+✍️ *Este repositório está em constante evolução, acompanhando meu progresso nos estudos.*
