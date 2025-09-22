@@ -36,8 +36,7 @@ Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
 ---
 
 ## 📫 Contato
-- **GitHub:** [seu usuário](https://github.com/seuusuario)  
-- **LinkedIn:** [seu perfil](https://linkedin.com/in/seuperfil)  
+- **LinkedIn:** [https://www.linkedin.com/in/gabriel-bispo-b69138203/)  
 
 ---
 
