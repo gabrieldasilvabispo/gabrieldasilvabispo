@@ -1,7 +1,5 @@
 <img width="1389" height="483" alt="banner github 3" src="https://github.com/user-attachments/assets/7242bcf7-c8e1-420a-8e0b-4105ab7d47be" />
 
-![GitHub License](https://img.shields.io/github/license/gabrieldasilvabispo/gabrieldasilvabispo?style=for-the-badge)
-
 # 👨‍💻 Sobre mim
 
 Olá, meu nome é **Gabriel da Silva Bispo**.  
