@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="banner github" src="https://github.com/user-attachments/assets/e2d72fc0-bde3-461d-8da1-9e7e9bc1b512" />
+
 # 👨‍💻 Sobre mim
 
 Olá, meu nome é **Gabriel da Silva Bispo**.  
