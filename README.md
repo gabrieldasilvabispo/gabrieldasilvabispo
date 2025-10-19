@@ -18,11 +18,12 @@ Este repositório foi criado para documentar e compartilhar minha trajetória pe
 Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
 
 - **UC-1:**  
-  - Teoria de Hardware  
-  - Fundamentos de Elétrica  
-  - Eletrônica Básica com Arduino  
-  - Git e GitHub  
-  - Introdução à Inteligência Artificial  
+  - Teoria de Hardware(em andamento) 
+  - Fundamentos de Elétrica(concluído)
+  - Eletrônica Básica com Arduino(concluído) 
+  - Git e GitHub(concluído) 
+  - Introdução à Inteligência Artificial(concluído)
+  - Cabeamento de Redes(em andamento)
 
 - **UC-2 (início):**  
   - Sistemas Operacionais Microsoft Windows  
