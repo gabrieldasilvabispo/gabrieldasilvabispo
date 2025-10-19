@@ -10,24 +10,25 @@ Busco consolidar conhecimentos fundamentais em hardware, software e programaçã
 
 # 📂 Repositório Pessoal
 
-Este repositório foi criado para documentar e compartilhar minha trajetória pessoal, acadêmica, reunindo conteúdos, anotações e projetos desenvolvidos ao longo das unidades curriculares.  
+Este repositório foi criado para documentar e compartilhar minha trajetória pessoal e acadêmica, reunindo conteúdos, anotações e projetos desenvolvidos ao longo das unidades curriculares.  
 
 ---
 
 ## 🎓 Formação em Andamento
+
 Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
 
-- **UC-1:**  
-  - Teoria de Hardware(em andamento) 
-  - Fundamentos de Elétrica(concluído)
-  - Eletrônica Básica com Arduino(concluído) 
-  - Git e GitHub(concluído) 
-  - Introdução à Inteligência Artificial(concluído)
-  - Cabeamento de Redes(em andamento)
+### 🧩 **UC-1: Fundamentos de Hardware, Elétrica, Eletrônica e Ferramentas**
+- ⚙️ **Teoria de Hardware** – 🟡 *em andamento*  
+- 🔌 **Fundamentos de Elétrica** – ✅ *concluído*  
+- 🤖 **Eletrônica Básica com Arduino** – ✅ *concluído*  
+- 🧠 **Introdução à Inteligência Artificial (IA)** – ✅ *concluído*  
+- 🌐 **Git e GitHub** – ✅ *concluído*  
+- 🧵 **Cabeamento de Redes** – 🟡 *em andamento*  
 
-- **UC-2 (início):**  
-  - Sistemas Operacionais Microsoft Windows  
-  - Sistemas Operacionais GNU/Linux  
+### 💻 **UC-2: Sistemas Operacionais**
+- 🪟 **Microsoft Windows** – 🟡 *início*  
+- 🐧 **GNU/Linux (Open Source)** – 🟡 *início*  
 
 ---
 
@@ -35,12 +36,13 @@ Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
 - Servir como registro estruturado do meu aprendizado  
 - Apoiar a prática e consolidação dos conhecimentos adquiridos  
 - Facilitar o compartilhamento de materiais e projetos com a comunidade  
+- Demonstrar evolução técnica ao longo do curso  
 
 ---
 
 ## 📫 Contato
-- **LinkedIn:** [https://www.linkedin.com/in/gabriel-bispo-b69138203/)  
+- **LinkedIn:** [Gabriel Bispo](https://www.linkedin.com/in/gabriel-bispo-b69138203/)  
 
 ---
 
-✨ *Este repositório está em constante evolução, acompanhando meu progresso nos estudos e na área de tecnologia.*
+✨ *Este repositório está em constante evolução, acompanhando meu progresso nos estudos e na área de tecnologia.*  
