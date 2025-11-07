@@ -19,12 +19,12 @@ Este repositório foi criado para documentar e compartilhar minha trajetória pe
 Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
 
 ### 🧩 **UC-1: Fundamentos de Hardware, Elétrica, Eletrônica e Ferramentas**
-- ⚙️ **Teoria de Hardware** – 🟡 *em andamento*  
+- ⚙️ **Teoria de Hardware** – ✅ *concluído* 
 - 🔌 **Fundamentos de Elétrica** – ✅ *concluído*  
 - 🤖 **Eletrônica Básica com Arduino** – ✅ *concluído*  
 - 🧠 **Introdução à Inteligência Artificial (IA)** – ✅ *concluído*  
 - 🌐 **Git e GitHub** – ✅ *concluído*  
-- 🧵 **Cabeamento de Redes** – 🟡 *em andamento*  
+- 🧵 **Cabeamento de Redes** – ✅ *concluído* 
 
 ### 💻 **UC-2: Sistemas Operacionais**
 - 🪟 **Microsoft Windows** – 🟡 *início*  
