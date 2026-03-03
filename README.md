@@ -19,25 +19,26 @@ Este repositório foi criado para documentar e compartilhar minha trajetória pe
 Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
 
 ###                  UC-1:
-- Teoria de Hardware** – ✅ *concluído*
-- Fundamentos de Elétrica** – ✅ *concluído*  
-- Eletrônica Básica com Arduino** – ✅ *concluído*  
-- Introdução à Inteligência Artificial (IA)** – ✅ *concluído*  
-- Git e GitHub** – ✅ *concluído*  
+- Teoria de Hardware – ✅ *concluído*
+- Fundamentos de Elétrica – ✅ *concluído*  
+- Eletrônica Básica com Arduino – ✅ *concluído*  
+- Introdução à Inteligência Artificial (IA) – ✅ *concluído*  
+- Git e GitHub – ✅ *concluído*  
 
 ###                  UC-2: 
 -  Microsoft Windows – ✅ *concluído*
 -  Linux - ✅ *concluído*
 
 ###                  UC-3:
-- Cabeamento de Redes** – ✅ *concluído*
+- Cabeamento de Redes – ✅ *concluído*
+- - Manutencção de computadores - ✅ *concluído*
   
 
 ###                  UC-4:
-- GNU/Linux (Open Source)** – ✅ *concluído*  
+- GNU/Linux (Open Source) – ✅ *concluído*  
 
 ###                  UC-5: 
-- Redes
+- Redes - 🟡 em andamento
 
 ## 🎯 Objetivo do Repositório
 - Servir como registro estruturado do meu aprendizado  
