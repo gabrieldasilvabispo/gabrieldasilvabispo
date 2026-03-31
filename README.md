@@ -40,6 +40,9 @@ Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
 ###                  UC-5: 
 - Redes - 🟡 em andamento
 
+###                  UC-6:
+- Linux Server - 🟡 em andamento
+
 ## 🎯 Objetivo do Repositório
 - Servir como registro estruturado do meu aprendizado  
 - Apoiar a prática e consolidação dos conhecimentos adquiridos  
