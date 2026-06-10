@@ -40,9 +40,6 @@ Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
 
 ---
 
-## 📫 Contato
-- **LinkedIn:** [Gabriel Bispo]([www.linkedin.com/in/gabriel-bispo-2b8a8a3b4](https://www.linkedin.com/in/gabriel-bispo-2b8a8a3b4/))  
-
 ---
 
 ✨ *Este repositório está em constante evolução, acompanhando meu progresso nos estudos e na área de tecnologia.*  
