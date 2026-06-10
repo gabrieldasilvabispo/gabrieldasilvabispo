@@ -28,9 +28,9 @@ Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
 - Cabeamento de Redes – ✅ *concluído*
 - Manutencção de computadores - ✅ *concluído*
 - GNU/Linux (Open Source) – ✅ *concluído*  
-- Redes - 🟡 em andamento
-- Linux Server - 🟡 em andamento
-- Windows Server - 🟡 em andamento
+- Redes - ✅ *concluído*
+- Linux Server - ✅ *concluído*
+- Windows Server - ✅ *concluído*
 
 ## 🎯 Objetivo do Repositório
 - Servir como registro estruturado do meu aprendizado  
