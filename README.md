@@ -31,6 +31,8 @@ Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
 - Redes - ✅ *concluído*
 - Linux Server - ✅ *concluído*
 - Windows Server - ✅ *concluído*
+- Logica de Programação - Em Andamento
+- Photoshop - Em Andamento
 
 ## 🎯 Objetivo do Repositório
 - Servir como registro estruturado do meu aprendizado  
