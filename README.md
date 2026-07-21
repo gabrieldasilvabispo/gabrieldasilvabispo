@@ -1,47 +1,54 @@
 <img width="1389" height="483" alt="banner github 3" src="https://github.com/user-attachments/assets/7242bcf7-c8e1-420a-8e0b-4105ab7d47be" />
 
-# 👨‍💻 Sobre mim
 
-Olá, meu nome é **Gabriel da Silva Bispo**.  
-Sou estudante do curso **Técnico em Informática – SENAC Tatuapé**, com interesse em tecnologia, desenvolvimento de soluções e aprendizado contínuo.  
-Busco consolidar conhecimentos fundamentais em hardware, software e programação, visando construir uma base sólida para minha futura atuação profissional na área de TI.  
 
+
+# 👨‍💻 Gabriel da Silva Bispo
+ 
+**Técnico em Informática — SENAC Tatuapé** | Infraestrutura, Redes e Automação
+ 
+Repositório de documentação técnica construído ao longo do curso: laboratórios, configurações e projetos aplicados em ambiente simulado de mercado.
+ 
 ---
-
-# 📂 Repositório Pessoal
-
-Este repositório foi criado para documentar e compartilhar minha trajetória pessoal e acadêmica, reunindo conteúdos, anotações e projetos desenvolvidos ao longo das unidades curriculares.  
-
+ 
+## 📂 Sobre este repositório
+ 
+Wiki técnica organizada por módulo, cobrindo desde administração de servidores até lógica de programação. Cada página documenta comandos, configurações e troubleshooting reais, não apenas teoria.
+ 
+**Destaques:**
+- 🖥️ Windows Server — AD, GPO, DHCP, RAID, NIC Teaming, compartilhamento e scripts de logon
+- 🐧 Linux Server (Debian) — Apache2, Tomcat, MariaDB/MySQL, NFTables, dnsmasq
+- 🌐 Redes — roteamento, IPv4/IPv6, Cisco Packet Tracer, cabeamento estruturado
+- 💻 Lógica de Programação — estruturas condicionais, VisualG *(em atualização)*
+- ---
+ 
+## 🎓 Trilha de formação
+ 
+**Concluído**
+| Módulo | Módulo |
+|---|---|
+| Teoria de Hardware | Manutenção de Computadores |
+| Fundamentos de Elétrica | Redes |
+| Eletrônica Básica (Arduino) | Cabeamento de Redes |
+| Introdução à IA | Linux / GNU-Linux |
+| Git e GitHub | Linux Server |
+| Microsoft Windows | Windows Server |
+ 
+**Em andamento**
+- Lógica de Programação
+- Photoshop
 ---
-
-## 🎓 Formação em Andamento
-
-Atualmente, estou aprofundando meus conhecimentos nas seguintes áreas:
-
-- Teoria de Hardware – ✅ *concluído*
-- Fundamentos de Elétrica – ✅ *concluído*  
-- Eletrônica Básica com Arduino – ✅ *concluído*  
-- Introdução à Inteligência Artificial (IA) – ✅ *concluído*  
-- Git e GitHub – ✅ *concluído*  
-- Microsoft Windows – ✅ *concluído*
-- Linux - ✅ *concluído*
-- Cabeamento de Redes – ✅ *concluído*
-- Manutencção de computadores - ✅ *concluído*
-- GNU/Linux (Open Source) – ✅ *concluído*  
-- Redes - ✅ *concluído*
-- Linux Server - ✅ *concluído*
-- Windows Server - ✅ *concluído*
-- Logica de Programação - Em Andamento
-- Photoshop - Em Andamento
-
-## 🎯 Objetivo do Repositório
-- Servir como registro estruturado do meu aprendizado  
-- Apoiar a prática e consolidação dos conhecimentos adquiridos  
-- Facilitar o compartilhamento de materiais e projetos com a comunidade  
-- Demonstrar evolução técnica ao longo do curso  
-
+ 
+## 🛠️ Stack técnica
+ 
+- **SO:** Windows Server, Linux Debian
+- **Redes:** RIP, IPv4/IPv6, Packet Tracer, cabeamento estruturado
+- **Banco de dados:** MySQL Workbench (import/export, privilégios globais)
+- **DevOps:** Git, GitHub (versionamento e documentação técnica)
+- **Hardware:** Manutenção de PCs, eletrônica básica com Arduino
 ---
-
----
-
-✨ *Este repositório está em constante evolução, acompanhando meu progresso nos estudos e na área de tecnologia.*  
+ 
+## 🎯 Objetivo
+ 
+Registro técnico estruturado do aprendizado, servindo como portfólio prático e histórico de evolução na área de Infraestrutura, Redes e DevOps.
+ 
